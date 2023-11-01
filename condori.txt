@@ -1,1 +1,4 @@
 Nou fitxer de local
+
+Hola, saludos a mi misma
+...
